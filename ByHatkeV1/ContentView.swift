@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ByHatkeV1
 //
-//  Created by Chinmay Patil on 10/4/24.
+//  Created by Aditya Bhusari on 10/4/24.
 //
 
 import SwiftUI
