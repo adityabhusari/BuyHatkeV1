@@ -4,6 +4,14 @@
 
 ByHatkeV1 is a SwiftUI-based Todo app that allows users to add, view, edit, and delete tasks (Todos). The app supports dark mode and integrates with SwiftData for storing todo items. It consists of a main screen to display tasks and an edit screen to update the task details.
 
+## How to Run
+
+- Open `.xcproj` file in XCode 16.0+
+- Connect an iPhone with iOS 18.0+
+- Ensure Developer account is signed in and profile is added to the device
+- Click Run Button in the top left corner
+- If prompted, go to device setting and click "trust developer" in Settings -> General -> Profile Management
+  
 ## Features
 
 - **Main Screen**: Displays a list of todos with titles, descriptions, and completion status.
