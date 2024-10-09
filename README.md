@@ -7,10 +7,20 @@ ByHatkeV1 is a SwiftUI-based Todo app that allows users to add, view, edit, and 
 ## Features
 
 - **Main Screen**: Displays a list of todos with titles, descriptions, and completion status.
+![WhatsApp Image 2024-10-09 at 23 26 11 (1)](https://github.com/user-attachments/assets/eacdfe88-7321-42a7-91e1-4ceb92cd91b0)
+
 - **Add Todo**: Users can add new todos with a title and description.
+![WhatsApp Image 2024-10-09 at 23 26 11](https://github.com/user-attachments/assets/97e1e190-61e5-4848-a121-88a38a917780)
+
 - **Edit Todo**: Users can edit existing todos' details such as title, description, and mark them as complete.
+![WhatsApp Image 2024-10-09 at 23 26 12 (1)](https://github.com/user-attachments/assets/dc69f79d-f022-4dba-837b-0a6ea279d7e4)
+
 - **Delete Todo**: Swipe to delete tasks.
+
+![WhatsApp Image 2024-10-09 at 23 48 01](https://github.com/user-attachments/assets/57a75376-4aa7-475e-930d-43d5e7c914d5)
+
 - **Dark Mode Toggle**: Users can switch between light and dark mode using a toggle.
+![WhatsApp Image 2024-10-09 at 23 26 12 (2)](https://github.com/user-attachments/assets/687b83b4-724a-494c-a7cf-1d518a3af901)
 
 ## Main Screen (Todos List)
 
